@@ -1,5 +1,7 @@
 # FirebaseApp
 
+Deployed - [Click to see the result](https://whatsapp-clone-aa56a.web.app) page.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
 ## Development server
