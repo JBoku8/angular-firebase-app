@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "whatsapp-clone-aa56a": {
+      "hosting": {
+        "firebase-app": [
+          "whatsapp-clone-aa56a"
+        ]
+      }
+    }
+  }
+}
